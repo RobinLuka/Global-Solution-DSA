@@ -1,3 +1,5 @@
+// 1) Lista simplesmente encadeada: mapeamento de competências.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -182,4 +184,5 @@ int main() {
     } while (escolha != 0);
 
     return 0;
+
 }
