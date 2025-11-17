@@ -1,4 +1,4 @@
-#Global Solution DSA 2sem
+# Global Solution DSA 2sem
 Esses são os códigos referentes aos exercícios da Global Solution. A ordem é:
 
 1) Lista simplesmente encadeada: mapeamento de competências. (MapeamentoDeCompetencias.c)
