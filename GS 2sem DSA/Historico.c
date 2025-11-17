@@ -1,3 +1,5 @@
+// 4) Pilha: histórico de estudos e revisões
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -154,4 +156,5 @@ int main() {
     } while (escolha != 0);
 
     return 0;
+
 }
