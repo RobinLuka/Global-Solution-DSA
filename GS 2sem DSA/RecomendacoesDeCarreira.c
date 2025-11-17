@@ -1,3 +1,5 @@
+// 2) Lista duplamente encadeada: recomendações de carreira.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -219,4 +221,5 @@ int main() {
     } while (escolha != 0);
 
     return 0;
+
 }
